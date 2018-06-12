@@ -1,6 +1,6 @@
 # 前言
 
-## Getting Super Powers
+## 为什么选择Python?
 
 Becoming a super hero is a fairly straight forward process:
 
