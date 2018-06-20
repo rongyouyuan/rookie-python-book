@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [前言](preface.md)
 * 第一章 准备
     * [关于Python](ch1/abort-python.md)
     * [预备知识](ch1/pre-knowledge.md)
