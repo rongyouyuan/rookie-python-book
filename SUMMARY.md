@@ -23,7 +23,7 @@
     * [类型转换](ch2/type-conversion.md)
     * [迭代器与生成器](ch2/iterator-generator.md)
 * 第三章 函数
-    * [函数概述](ch3/function.md)
+    * [函数概述](ch3/function.md)
     * [函数的参数](ch3/function-args.md)
     * [函数的返回值](ch3/function-returned.md)
     * [传递参数](ch3/pass-parameter.md)

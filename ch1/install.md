@@ -4,7 +4,7 @@
 
 ## Windows系统安装Python
 
-**1.下载安装包**
+**1.下载安装包**
 
 进入Python官网 `Downloads` > 选择Windows操作系统，根据操作系统版本（32位或64位）来选择需要下载的安装包（32为选择x86，64位选择x86-64）。这里以64位系统为例，我们选择 `Windows x86-64 executable installer`。
 
@@ -34,7 +34,7 @@
 
 ## Max系统安装Python
 
-在macOS系统上已经内置了Python 2.x版本，由于我们的教程是基于Python 3.x 所以我们还要安装Python 3版本，我们可以使用Homebrew或者官网安装包方式安装。
+在macOS系统上已经内置了Python 2.x版本，由于我们的教程是基于Python 3.x 所以我们还要安装Python 3版本，我们可以使用Homebrew或者官网安装包方式安装。
 
 **安装方式一**
 
@@ -43,7 +43,7 @@
 **安装方式二**
 
 从Python官网下载Python3.6.4安装程序
-[Python3.6.5](https://www.python.org/ftp/python/3.6.5/python-3.6.5-macosx10.6.pkg) 安装即可。
+[Python3.6.5](https://www.python.org/ftp/python/3.6.5/python-3.6.5-macosx10.6.pkg) 安装即可。
 
 
 安装完成后，打开终端输入python3，出现如下结果：
@@ -52,16 +52,16 @@
 
 ## Linux系统安装Python
 
-在大多数Liunx系统中也默认内置了python 2.x版本，同样我们需要安装Python 3版本。由于Liunx系统版本众多，安装方式也各有不同，具体系统的具体安装教程不再一一细述。
- 
-**有些较新的操作系统内置了Python 2以及Python 3版本，我们可直接使用**
+在大多数Liunx系统中也默认内置了python 2.x版本，同样我们需要安装Python 3版本。由于Liunx系统版本众多，安装方式也各有不同，具体系统的具体安装教程不再一一细述。
+ 
+**有些较新的操作系统内置了Python 2以及Python 3版本，我们可直接使用**
 
-> 注意：不要去尝试删除系统原有的Python 2版本，因为一部分系统软件底层是依赖Python 2的，删除会导致未可知的错误。
+> 注意：不要去尝试删除系统原有的Python 2版本，因为一部分系统软件底层是依赖Python 2的，删除会导致未可知的错误。
 
 
 * 下载源码包
 
-在[Python](https://www.python.org/downloads/source/)官网查找系统合适的源码包，选择合适版本的源码包进行下载。
+在[Python](https://www.python.org/downloads/source/)官网查找系统合适的源码包，选择合适版本的源码包进行下载。
 
 ```
 wget https://www.python.org/ftp/python/3.6.4/Python-3.6.4.tgz
