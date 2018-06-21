@@ -13,8 +13,8 @@
     * [数据类型](ch2/data-types.md)
     * [变量与常量](ch2/variable-constant.md)
     * [Number(数字)](ch2/number.md)
-    * [String(字符串)与编码](ch2/string-encoding.md)
     * [运算符与表达式](ch2/operational-expression.md)
+    * [String(字符串)与编码](ch2/string-encoding.md)
     * [布尔值与控制](ch2/boolean-control.md)
     * [list与tuple](ch2/list-tuple.md)
     * [条件判断语句](ch2/judgment.md)
@@ -34,4 +34,4 @@
     * [装饰器](ch3/decorator.md)
     * [偏函数](ch3/partial-function.md)
     * [变量作用域](ch3/partial-function.md)
-* 第四章 函数
+* 第四章 模块
