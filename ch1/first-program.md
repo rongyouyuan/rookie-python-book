@@ -39,8 +39,8 @@ Python直接将计算结果201展示了出来。
 `print` 函数用于打印出指定的文字，注意这里需要将要输出的文字用单引号或者双引号括起来，下面我们来输出一段文字“Hello World":
 
 ```
->>> print('Hello World')
-Hello World
+>>> print('Hello, World!')
+Hello, World!
 ```
 
 恭喜你完成了Python的第一行代码！
@@ -59,14 +59,14 @@ Hello World
 
 <img src="/assets/WX20180621-034102@2x.png" width="600">
 
-以`Sublime Text`为例，点击`File` > `New File` 创建一个新的名为`hello.py`文件，输入`print('Hello World')` 并保存：
+以`Sublime Text`为例，点击`File` > `New File` 创建一个新的名为`hello.py`文件，输入`print('Hello, World!')` 并保存：
 
 ```
-print('Hello World')
+print('Hello, World!')
 ```
 然后我们在终端模式中执行 `python3 hello.py`，我们得到了与交互模式一样的效果：
 
 ```
 /workplace/learn-python python3 hello.py
-Hello World
+Hello, World!
 ```
