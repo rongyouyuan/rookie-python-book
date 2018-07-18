@@ -646,3 +646,5 @@ lstrip
 rstrip
 
 strip 
+
+字符串大小的比较
